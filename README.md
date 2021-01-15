@@ -1,5 +1,5 @@
 # Geogeometry
-![mosaics from random lines](https://github.com/STEMlib/geogeometry/geogeometry_0.png)
+![mosaics from random lines](geogeometry_0.png)
 
 Answering: average number of sides for closed polygons made from 10 randomly drawn lines on a sheet of paper?
 
@@ -25,7 +25,7 @@ Median:  6.0
 The example above looped from 2 lines to 10 lines. 
 
 An interesting analysis is to look at the number of intersections as a function of lines drawn. 
-![mosaics from random lines](https://github.com/STEMlib/geogeometry/geogeometry_1.png)
+![mosaics from random lines](geogeometry_1.png)
 
 **Further analysis should be explored in the future!**
 
